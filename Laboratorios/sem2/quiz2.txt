@@ -1,0 +1,11 @@
+Explique cuales son los modos de programación en python:
+
+1. Modo Interactivo:
+*Utiliza una interfaz de comandos
+*Util para depurar aplicaciones y evaluar prototipos
+*Respeta el tabulado d código
+
+2. Modo Normal:
+*Es la manera tradicional de programación
+*Ejecuta los archivos con extensión .py
+*Deben ser archivos estructurados y terminados
